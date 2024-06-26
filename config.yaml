@@ -1,0 +1,8 @@
+path : C:/Users/jeeva/OneDrive/Documents/YOLO/YOLO-Train_dataset/YOLO-Train_dataset
+train : C:/Users/jeeva/OneDrive/Documents/YOLO/YOLO-Train_dataset/YOLO-Train_dataset/images
+val : C:/Users/jeeva/OneDrive/Documents/YOLO/YOLO-Train_dataset/YOLO-Train_dataset/images
+
+# Class names
+
+nc : 5
+names: ['Dripping', 'Laser-Off', 'Lack of Fusion', 'Non-Defective', 'Overheating']
