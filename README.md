@@ -1,6 +1,16 @@
 # YOLO_Dripping_Detection
  A repository used for detecting dripping during laser aided additive manufacturing.
 
+ ### Installation:
+
+```
+pip install ultralytics
+
+```
+
+### Requirement:
+
+Python Version 3.7 or higher
 
 ### Files contained:
 
