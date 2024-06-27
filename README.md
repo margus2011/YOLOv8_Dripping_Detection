@@ -4,11 +4,12 @@
  ### Installation:
 
 ```
+git clone https://github.com/margus2011/YOLOv8_Dripping_Detection.git
 pip install ultralytics
 
 ```
 
-### Requirement:
+### Prerequisites:
 
 Python Version 3.7 or higher
 
