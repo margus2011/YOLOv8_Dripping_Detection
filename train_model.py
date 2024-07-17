@@ -4,4 +4,4 @@ from ultralytics import YOLO
 model= YOLO("yolov8n.yaml") 
 
 # Use the model
-results = model.train(data="C:/Users/jeeva/OneDrive/Documents/YOLO/config.yaml", epochs=10) 
+results = model.train(data="C:/Users/jeeva/OneDrive/Documents/YOLO/config.yaml", epochs=100) 
